@@ -1,0 +1,11 @@
+Model Information:
+* title:	DeLorean DMC12 MCPE
+* source:	https://sketchfab.com/3d-models/delorean-dmc12-mcpe-3a09b83f8a124ade955efdb373bae074
+* author:	ashminggu (https://sketchfab.com/ashminggu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DeLorean DMC12 MCPE" (https://sketchfab.com/3d-models/delorean-dmc12-mcpe-3a09b83f8a124ade955efdb373bae074) by ashminggu (https://sketchfab.com/ashminggu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
